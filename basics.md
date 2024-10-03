@@ -9,6 +9,15 @@ A O I U E
 
 P K T F H L M N R Y S
 
+# Grammatically Allowed Syllables
+
+you can combine any consonant with a vowel to form a syllable,
+
+the only pairs that are grammatically incorrect / not possible are:
+- "Yi" - Y and I make near identical sounds, making this pair redundant and nonsensical
+
+"sh" + vowel is also allowed to be paired with consonants to make a syllable, and is considered as such.
+
 ---
 
 YŪ"PAN"KŌ also uses basic accent markers to indicate long vowels and nasal sounds
@@ -16,6 +25,7 @@ YŪ"PAN"KŌ also uses basic accent markers to indicate long vowels and nasal sou
 tilde (~) is used to indicate a nasal consonant/vowel, i.e: ñ
 
 macron (-) is used to indicate a long vowel, i.e: ā
+- In many languages, this would be where the tonal syllable is.
 
 ---
 
@@ -26,4 +36,5 @@ Within this structure, verbs are like suffixes, which attach to words in order t
 
 Example usage for verbs:
 - sa-hufun pūin | translation: I drink water
-- satu-seren hunīs | translation: (The) human is honest
+- satu-seren hunishū | translation: (The) human is honest
+- sa kanishō-seren omipē | translation: I need to be strong

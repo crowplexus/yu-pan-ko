@@ -15,23 +15,27 @@ aē - "Ah, right!"
 
 amērika - "America" (Continent)
 - If you wanna say "United States of America" just say
-- "unī ōpuse amērika"
+- "unī opūse amērika"
 
 ---
 # O
 
 ōu - The sound of someone trying to catch attention
 
-ōpuse - "Province / State"
+opūse - "Province / State"
+
+omipē - "Strong"
 
 ---
 # I
 
 ī - "Eek!"
 
+ipu - "Little"
+
 ifu - "Tree"
 
-ipu - "Little"
+īkuso - "Century"
 
 ---
 # U
@@ -95,6 +99,10 @@ pūin - "Water" or "Wet"
 
 kāpow - Sound of a strong punch against a surface
 
+kanishō - "Need"
+
+kupā - "Mushroom" / "Male genitalia"
+
 kīpun - "House / Home"
 
 kō - "Language"
@@ -105,14 +113,14 @@ kōpu - "Cup"
 
 kōshu - "a place with grand importance"
 
-kubā - "Mushroom" / "Male genitalia"
-
 ---
 # T
 
 tān - "Red"
 
 to - "And"
+
+tikū - "Time"
 
 ---
 # F
@@ -125,19 +133,25 @@ fāpu - "Giant"
 
 fōy - "Left / Gone"
 
+fuē - "Color"
+
 ---
 # H
 
 hāou - "Dog"
 
-hīha - a homosexual
+hifā - a homosexual
 
 -hufun - Verb meaning "to drink"
 
-hunīs - "Honest"
+hūte - "Fruit"
+
+hunishū - "Honest"
 
 ---
 # L
+
+lapā - "Grave"
 
 lūf - "Boyfriend"
 
@@ -179,6 +193,8 @@ nūl - "Nothing"
 yū - "No"
 
 yūu - "Incorrect"
+
+yēshu - "Age"
 
 ---
 # S
