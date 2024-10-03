@@ -38,6 +38,7 @@ omipē - "Strong"
 ī - "Eek!"
 
 ipu - "Little"
+- useful example: a "ipu satu" is a child
 
 ifu - "Tree"
 
@@ -52,7 +53,7 @@ ukān - "Found"
 
 upaf - "You"
 
-unī - "united"
+unī - "United"
 
 ushā - "Russia"
 
@@ -134,6 +135,8 @@ to - "And"
 
 tikū - "Time"
 
+tūpunu - "Useless"
+
 ---
 # F
 
@@ -143,11 +146,17 @@ fān - "Blue"
 
 fāsho - "Big Star / Moon"
 
-fāpu - "Giant"
+fāpu - "Big"
+- useful example: a "fāpu satu" is an adult
+
+fāpusho - "Giant"
+- useful example: a "fāpusho satu" is an elderly adult
 
 fōy - "Left / Gone"
 
 fuē - "Color"
+
+fūkana - "Useful"
 
 ---
 # H
@@ -189,10 +198,10 @@ māou - "Cat"
 māyu - "Evil"
 
 -mapun - Verb meaning "to look like {object}"
-- i.e: pushū-mapun fā | "They look like a star"
+- i.e: pushū-mapun fā | "They look like (a) star"
 
 -mufun - Verb meaning "to eat"
-- i.e: sa-mufun hūte | "I eat a fruit"
+- i.e: sa-mufun hūte | "I eat (a) fruit"
 
 ---
 # N
