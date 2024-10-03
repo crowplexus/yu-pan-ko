@@ -186,7 +186,7 @@ māou - "Cat"
 
 māyu - "Evil"
 
--mapun - Verb meaning "to look like {attached object}"
+-mapun - Verb meaning "to look like {object}"
 - i.e: pushū-mapun fā | "They look like a star"
 
 -mufun - Verb meaning "to eat"
