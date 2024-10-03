@@ -140,7 +140,7 @@ fuē - "Color"
 
 hāou - "Dog"
 
-hifā - a homosexual
+hifā - Someone who is attracted to someone of the same gender as theirs
 
 -hufun - Verb meaning "to drink"
 
