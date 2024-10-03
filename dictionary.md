@@ -13,11 +13,16 @@ anō - Year
 
 aē - "Ah, right!"
 
+amērika - "America" (Continent)
+- If you wanna say "United States of America" just say
+- "unī ōpuse amērika"
 
 ---
 # O
 
 ōu - The sound of someone trying to catch attention
+
+ōpuse - "Province / State"
 
 ---
 # I
@@ -37,9 +42,12 @@ ukān - "Found"
 
 upaf - "You"
 
+unī - "united"
 
 ---
 # E
+
+eōpa - "Europe"
 
 epi - "Picture"
 
@@ -57,13 +65,17 @@ esipire - "Experienced"
 # P
 
 pan - Particle indicating that the {object} is {subject}
-	i.e: YŪ'PAN'GO literally means "Not a Language"
+	i.e: YŪ"PAN"KŌ literally means "(This) Is not a Language"
 
 pāy - "Yes"
 
 pāay - "Correct."
 
+pasīl - "Brazil" (Country)
+
 pañol - "Spanish"
+
+pitān - "Britain" (Sovereign State)
 
 pōf - "Please"
 
@@ -72,7 +84,7 @@ pōkon - "Dry"
 pōtu - "Portuguese" (Language)
 
 pōna - "Toki Pona" (Language)
-	- Origin: "Pona" from Toki Pona.
+- Origin: "Pona" from Toki Pona.
 
 pūla - "Friend"
 
@@ -82,13 +94,12 @@ pūla - "Friend"
 kāpow - Sound of a strong punch against a surface
 
 kō - "Language"
-	- Origin: 語 (Go) from 日本語/Japanese
+- Origin: 語 (Go) from 日本語/Japanese
 
 kopū - "Cup"
-	- Origin: Copo from Português/Portuguese
+- Origin: Copo from Português/Portuguese
 
-kōshu - Means "a place with grand importance"
-
+kōshu - "a place with grand importance"
 
 ---
 # T
@@ -96,7 +107,6 @@ kōshu - Means "a place with grand importance"
 tān - "Red"
 
 to - "And"
-
 
 ---
 # F
@@ -111,7 +121,6 @@ fōy - "Left / Gone"
 
 
 ---
-
 # H
 
 hāou - "Dog"
@@ -124,7 +133,6 @@ hīha - a homosexual
 lūf - "Boyfriend"
 
 ---
-
 # M
 
 mapā - Your parent (Mother, and father)
@@ -135,22 +143,25 @@ māou - "Cat"
 
 māyu - "Evil"
 
-
 ---
-
 # N
 
 na - Particle indicating that the {subject} has done {thing}
-	i.e: māou to hāou na fōy
-	Translation: The cat and the dog left
-	Literal: cat and dog away
+- i.e: māou to hāou na fōy
+- Translation: The cat and the dog left
+- Literal: cat and dog away
 
-nō - A verb meaning "to belong to"
-	- also used as an onomatopoeia for how English speakers say "yō"
+-pupun - A verb meaning "to belong to"
+- also used as an onomatopoeia for how English speakers say "yō"
 
 nōs - "Us"
 
 nūl - "Nothing"
+
+---
+# R
+
+-roron - A verb meaning "to snore"
 
 ---
 # Y
@@ -158,5 +169,12 @@ nūl - "Nothing"
 yū - "No"
 
 yūu - "Incorrect"
+
+---
+# S
+
+-sesen - Verb "to do"
+
+sa - "Me"
 
 ---
