@@ -18,6 +18,8 @@ aē - "Ah, right!"
 amērika - "America" (Continent)
 - If you wanna say "United States of America" just say
 - "unī opūse amērika"
+- If you wanna say "an American" - you say
+- "amērika satu"
 
 adā - Anything that cuts (i.e: a knife, a blade, a sword)
 
@@ -52,7 +54,7 @@ upaf - "You"
 
 unī - "united"
 
-ushā - "Russian"
+ushā - "Russia"
 
 ukāne - "Ukraine"
 
@@ -167,7 +169,7 @@ hitā - "Terrorist"
 
 lapā - "Grave"
 
-lāva - "A shade of purple"
+lāpa - "A shade of purple"
 
 lūf - "Boyfriend"
 
