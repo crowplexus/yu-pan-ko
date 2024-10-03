@@ -5,9 +5,11 @@
 
 ā - The sound of a gasp
 
-anī - "Birthday"
+apā - "Appearance"
 
 afōn - To lack something
+
+anī - "Birthday"
 
 anō - Year
 
@@ -16,6 +18,8 @@ aē - "Ah, right!"
 amērika - "America" (Continent)
 - If you wanna say "United States of America" just say
 - "unī opūse amērika"
+
+adā - Anything that cuts (i.e: a knife, a blade, a sword)
 
 ---
 # O
@@ -47,6 +51,10 @@ ukān - "Found"
 upaf - "You"
 
 unī - "united"
+
+ushā - "Russian"
+
+ukāne - "Ukraine"
 
 ---
 # E
@@ -90,9 +98,11 @@ pōtu - "Portuguese" (Language)
 pōna - "Toki Pona" (Language)
 - Origin: "Pona" from Toki Pona.
 
+pūin - "Water" or "Wet"
+
 pūla - "Friend"
 
-pūin - "Water" or "Wet"
+pushū - "He / Her / Them"
 
 ---
 # K
@@ -101,7 +111,7 @@ kāpow - Sound of a strong punch against a surface
 
 kanishō - "Need"
 
-kupā - "Mushroom" / "Male genitalia"
+kupā - "Mushroom / Male genitalia"
 
 kīpun - "House / Home"
 
@@ -127,7 +137,9 @@ tikū - "Time"
 
 fā - "Star"
 
-fāsho - "Big Star" / "Moon"
+fān - "Blue"
+
+fāsho - "Big Star / Moon"
 
 fāpu - "Giant"
 
@@ -148,12 +160,20 @@ hūte - "Fruit"
 
 hunishū - "Honest"
 
+hitā - "Terrorist"
+
 ---
 # L
 
 lapā - "Grave"
 
+lāva - "A shade of purple"
+
 lūf - "Boyfriend"
+
+lūmin - "A shade of yellow"
+
+-lamun - Verb meaning "to interject"
 
 ---
 # M
@@ -166,7 +186,11 @@ māou - "Cat"
 
 māyu - "Evil"
 
+-mapun - Verb meaning "to look like {attached object}"
+- i.e: pushū-mapun fā | "They look like a star"
+
 -mufun - Verb meaning "to eat"
+- i.e: sa-mufun hūte | "I eat a fruit"
 
 ---
 # N
@@ -176,11 +200,11 @@ na - Particle indicating that the {subject} has done {thing}
 - Translation: The cat and the dog left
 - Literal: cat and dog away
 
--pupun - A verb meaning "to belong to"
-
 nōs - "Us"
 
 nūl - "Nothing"
+
+-pupun - A verb meaning "to belong to"
 
 ---
 # R
@@ -196,15 +220,20 @@ yūu - "Incorrect"
 
 yēshu - "Age"
 
+yetu - Something that is not human (i.e: Animal, Alien)
+
 ---
 # S
+
+sa - "Me"
+
+satu - "Human"
+
+shun - "Green / Grass"
+- i.e: māou-seren shun | (The) cat is green
 
 -sesen - Verb "to do"
 
 -seren - Verb "to be"
-
-satu - "Human"
-
-sa - "Me"
 
 ---

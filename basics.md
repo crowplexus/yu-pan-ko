@@ -35,6 +35,7 @@ The language's verbs work like simple contractions in English
 Within this structure, verbs are like suffixes, which attach to words in order to change their meaning without having to change the entire word, whenever you see a word starting in a dash in the dictionary, that means it's a verb.
 
 Example usage for verbs:
-- sa-hufun pūin | translation: I drink water
-- satu-seren hunishū | translation: (The) human is honest
-- sa kanishō-seren omipē | translation: I need to be strong
+- sa-hufun pūin | is: I drink water | literal: I drink water
+- satu-seren hunishū | (The) human is honest
+- sa-seren kanishō omipē | I need to be strong
+- pushū-mapun fā | They look like a star.
