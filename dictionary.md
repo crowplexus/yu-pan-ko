@@ -152,7 +152,6 @@ na - Particle indicating that the {subject} has done {thing}
 - Literal: cat and dog away
 
 -pupun - A verb meaning "to belong to"
-- also used as an onomatopoeia for how English speakers say "yō"
 
 nōs - "Us"
 
