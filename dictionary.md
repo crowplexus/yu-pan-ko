@@ -86,6 +86,8 @@ pāy - "Yes"
 
 pāay - "Correct."
 
+pāsun - "Good"
+
 pasīl - "Brazil" (Country)
 
 pañol - "Spanish"
@@ -171,14 +173,14 @@ hūte - "Fruit"
 
 hunishū - "Honest"
 
-hitā - "Terrorist"
+hitā - "Bad"
 
 ---
 # L
 
-lapā - "Grave"
-
 lāpa - "A shade of purple"
+
+liputēn - "Grave"
 
 lūf - "Boyfriend"
 
