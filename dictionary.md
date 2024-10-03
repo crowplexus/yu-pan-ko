@@ -88,10 +88,14 @@ pōna - "Toki Pona" (Language)
 
 pūla - "Friend"
 
+pūin - "Water" or "Wet"
+
 ---
 # K
 
 kāpow - Sound of a strong punch against a surface
+
+kīpun - "House / Home"
 
 kō - "Language"
 - Origin: 語 (Go) from 日本語/Japanese
@@ -100,6 +104,8 @@ kōpu - "Cup"
 - Origin: Copo from Português/Portuguese
 
 kōshu - "a place with grand importance"
+
+kubā - "Mushroom" / "Male genitalia"
 
 ---
 # T
@@ -119,13 +125,16 @@ fāpu - "Giant"
 
 fōy - "Left / Gone"
 
-
 ---
 # H
 
 hāou - "Dog"
 
 hīha - a homosexual
+
+-hufun - Verb meaning "to drink"
+
+hunīs - "Honest"
 
 ---
 # L
@@ -142,6 +151,8 @@ mapañyo - Your grandparent (Grandmother and grandfather)
 māou - "Cat"
 
 māyu - "Evil"
+
+-mufun - Verb meaning "to eat"
 
 ---
 # N
@@ -173,6 +184,10 @@ yūu - "Incorrect"
 # S
 
 -sesen - Verb "to do"
+
+-seren - Verb "to be"
+
+satu - "Human"
 
 sa - "Me"
 

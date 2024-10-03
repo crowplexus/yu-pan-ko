@@ -25,6 +25,5 @@ The language's verbs work like simple contractions in English
 Within this structure, verbs are like suffixes, which attach to words in order to change their meaning without having to change the entire word, whenever you see a word starting in a dash in the dictionary, that means it's a verb.
 
 Example usage for verbs:
-- sa-pupun pasīl
-- translation: I am from Brazil
-- literally: I belong to Brazil
+- sa-hufun pūin | translation: I drink water
+- satu-seren hunīs | translation: (The) human is honest
