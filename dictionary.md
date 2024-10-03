@@ -96,7 +96,7 @@ kāpow - Sound of a strong punch against a surface
 kō - "Language"
 - Origin: 語 (Go) from 日本語/Japanese
 
-kopū - "Cup"
+kōpu - "Cup"
 - Origin: Copo from Português/Portuguese
 
 kōshu - "a place with grand importance"
