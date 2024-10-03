@@ -19,7 +19,8 @@ Suffix examples down after this section
 
 - "{duplicate middle/last vowel}" - Suffix indicating **certainty**
 	- To use this, grab a noun, find it's middle/last vowel, and duplicate it
-	- For example: "yū" becomes "yūū"
+	- often, duplicating that vowel makes it be shorter than it originally was
+	- For example: "yū" becomes "yūu"
 
 Irregular forms of these suffixes will be documented if existing.
 
@@ -27,7 +28,7 @@ Irregular forms of these suffixes will be documented if existing.
 
 ### Suffix Examples
 
-yūū - "Incorrect"
+yūu - "Incorrect"
 
 yuñyo - "No, {Higher Up}."
 

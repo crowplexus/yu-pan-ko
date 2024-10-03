@@ -24,9 +24,9 @@ aē - "Ah, right!"
 
 ī - "Eek!"
 
-īfu - "Tree"
+ifu - "Tree"
 
-īpu - "Little"
+ipu - "Little"
 
 ---
 # U
@@ -35,21 +35,21 @@ upōn - "Missing"
 
 ukān - "Found"
 
-ūpa - "You"
+upaf - "You"
 
 
 ---
 # E
 
-ēpi - "Picture"
+epi - "Picture"
 
-ēki - "Painting"
+eki - "Painting"
 
-ēdepi - "Digital Drawing"
+edepi - "Digital Drawing"
 
-ēkepi - "Traditional Drawing"
+ekepi - "Traditional Drawing"
 
-ēsipire - "Experienced"
+esipire - "Experienced"
 
 ēnpis - "English" (Language)
 
@@ -61,7 +61,7 @@ pan - Particle indicating that the {object} is {subject}
 
 pāy - "Yes"
 
-pāāy - "Correct."
+pāay - "Correct."
 
 pañol - "Spanish"
 
@@ -71,21 +71,21 @@ pōkon - "Dry"
 
 pōtu - "Portuguese" (Language)
 
-pōnā - "Toki Pona" (Language)
-	Origin: "Pona" from Toki Pona.
+pōna - "Toki Pona" (Language)
+	- Origin: "Pona" from Toki Pona.
 
 pūla - "Friend"
 
 ---
 # K
 
-kāpōw - Sound of a strong punch against a surface
+kāpow - Sound of a strong punch against a surface
 
 kō - "Language"
-	Origin: 語 (Go) from 日本語/Japanese
+	- Origin: 語 (Go) from 日本語/Japanese
 
-kōpū - "Cup"
-	Origin: Copo from Português/Portuguese
+kopū - "Cup"
+	- Origin: Copo from Português/Portuguese
 
 kōshu - Means "a place with grand importance"
 
@@ -103,7 +103,7 @@ to - "And"
 
 fā - "Star"
 
-fāshō - "Big Star" / "Moon"
+fāsho - "Big Star" / "Moon"
 
 fāpu - "Giant"
 
@@ -157,6 +157,6 @@ nūl - "Nothing"
 
 yū - "No"
 
-yūū - "Incorrect"
+yūu - "Incorrect"
 
 ---
