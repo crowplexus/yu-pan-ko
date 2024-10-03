@@ -32,6 +32,9 @@ opūse - "Province / State"
 
 omipē - "Strong"
 
+ōnan - "Name"
+- i.e: sapon! sa ōnan {BLANK} | Hello! my name (is) {BLANK}
+
 ---
 # I
 
@@ -211,6 +214,9 @@ māyu - "Evil"
 na - Particle indicating that the {subject} has done {thing}
 - i.e: māou to hāou na fōy | The cat and the dog left | literal: cat and dog away
 
+nun - Particle which transform a whole phrase into a question
+- This is useful if you wanna be clear that what you've said is a question, it's a good way of avoiding confusion in text if you forgot to add a "?"
+
 nōs - "Us"
 
 nūl - "Nothing"
@@ -237,6 +243,9 @@ yetu - Something that is not human (i.e: Animal, Alien)
 # S
 
 sa - "Me"
+
+sapon - An way of greeting someone you don't know
+- i.e: sapon! upaf-sesen pāsun nun | Hello! Are you feeling well?
 
 satu - "Human"
 
