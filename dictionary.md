@@ -196,9 +196,7 @@ māyu - "Evil"
 # N
 
 na - Particle indicating that the {subject} has done {thing}
-- i.e: māou to hāou na fōy
-- Translation: The cat and the dog left
-- Literal: cat and dog away
+- i.e: māou to hāou na fōy | The cat and the dog left | literal: cat and dog away
 
 nōs - "Us"
 
