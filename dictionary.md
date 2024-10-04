@@ -3,8 +3,6 @@
 ---
 # A
 
-ā - The sound of a gasp
-
 apā - "Appearance"
 
 afōn - To lack something
@@ -26,8 +24,6 @@ adā - Anything that cuts
 
 ---
 # O
-
-ōu - The sound of someone trying to catch attention
 
 opūse - "Province / State"
 
@@ -115,8 +111,6 @@ pushū - "He / Her / Them"
 
 ---
 # K
-
-kāpow - Sound of a strong punch against a surface
 
 kanishō - "Need"
 
