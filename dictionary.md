@@ -3,15 +3,14 @@
 ---
 # A
 
+aē - "Ah, right!"
+
 apā - "Appearance"
 
+apān - Anything that cuts
+- i.e: a knife, a blade, a sword
+
 afōn - To lack something
-
-anī - "Birthday"
-
-anō - Year
-
-aē - "Ah, right!"
 
 amērika - "America" (Continent)
 - If you wanna say "United States of America" just say
@@ -19,8 +18,10 @@ amērika - "America" (Continent)
 - If you wanna say "an American" - you say
 - "amērika satu"
 
-adā - Anything that cuts
-- i.e: a knife, a blade, a sword
+anī - "Birthday"
+
+anō - Year
+
 
 ---
 # O
@@ -40,41 +41,38 @@ omipē - "Strong"
 ipu - "Little"
 - useful example: a "ipu satu" is a child
 
-ifu - "Tree"
-
 īkuso - "Century"
+
+ifu - "Tree"
 
 ---
 # U
+
+upaf - "You"
 
 upōn - "Missing"
 
 ukān - "Found"
 
-upaf - "You"
+ukāne - "Ukraine"
 
 unī - "United"
 
 ushā - "Russia"
 
-ukāne - "Ukraine"
 
 ---
 # E
 
 eōpa - "Europe"
 
-epi - "Picture"
+epi - "Picture" 
 
-eki - "Painting"
-
-edepi - "Digital Drawing"
-
-ekepi - "Traditional Drawing"
-
-esipire - "Experienced"
+eki - "Painting" / "Drawing"
 
 ēnpis - "English" (Language)
+
+esipire - "Experienced"
 
 ---
 # P
@@ -82,23 +80,25 @@ esipire - "Experienced"
 pan - Particle indicating that the {object} is {subject}
 - i.e: YŪ"PAN"KŌ literally means "(This) Is not a Language"
 
+panū - "One"
+
 pāy - "Yes"
 
 pāay - "Correct."
 
-pāsun - "Good"
-
-pasīl - "Brazil" (Country)
+pitān - "Britain" (Sovereign State)
 
 pañol - "Spanish"
 
-pitān - "Britain" (Sovereign State)
+pasīl - "Brazil" (Country)
 
-pōf - "Please"
+pāsun - "Good"
 
 pōkon - "Dry"
 
 pōtu - "Portuguese" (Language)
+
+pōf - "Please"
 
 pōna - "Toki Pona" (Language)
 - Origin: "Pona" from Toki Pona.
@@ -109,12 +109,11 @@ pūla - "Friend"
 
 pushū - "He / Her / Them"
 
+
 ---
 # K
 
 kanishō - "Need"
-
-kupā - "Mushroom / Male genitalia"
 
 kīpun - "House / Home"
 
@@ -126,14 +125,18 @@ kōpu - "Cup"
 
 kōshu - "a place with grand importance"
 
+kupā - "Mushroom / Male genitalia"
+
 ---
 # T
 
 tān - "Red"
 
-to - "And"
+tenū - "Two"
 
 tikū - "Time"
+
+to - "And"
 
 tūpunu - "Useless"
 
@@ -142,19 +145,21 @@ tūpunu - "Useless"
 
 fā - "Star"
 
-fān - "Blue"
-
-fāsho - "Big Star / Moon"
-
 fāpu - "Big"
 - useful example: a "fāpu satu" is an adult
 
 fāpusho - "Giant"
 - useful example: a "fāpusho satu" is an elderly adult
 
+fān - "Blue"
+
+fāsho - "Big Star / Moon"
+
 fōy - "Left / Gone"
 
 fuē - "Color"
+
+fupū - "Three"
 
 fūkana - "Useful"
 
@@ -163,15 +168,18 @@ fūkana - "Useful"
 
 hāou - "Dog"
 
-hifā - Someone who is attracted to someone of the same gender as theirs
+hayū - "Four"
 
--hufun - Verb meaning "to drink"
+hitā - "Bad"
+
+hifā - Someone who is attracted to someone of the same gender as theirs
 
 hūte - "Fruit"
 
 hunishū - "Honest"
 
-hitā - "Bad"
+-hufun - Verb meaning "to drink"
+
 
 ---
 # L
@@ -189,11 +197,11 @@ lūmin - "A shade of yellow"
 ---
 # M
 
+māou - "Cat"
+
 mapā - Your parent (Mother, and father)
 
 mapañyo - Your grandparent (Grandmother and grandfather)
-
-māou - "Cat"
 
 māyu - "Evil"
 
@@ -212,6 +220,10 @@ na - Particle indicating that the {subject} has done {thing}
 nun - Particle which transform a whole phrase into a question
 - This is useful if you wanna be clear that what you've said is a question, it's a good way of avoiding confusion in text if you forgot to add a "?"
 
+napū - "Number"
+
+nimū - "Five"
+
 nōs - "Us"
 
 nūl - "Nothing"
@@ -226,25 +238,27 @@ nūl - "Nothing"
 ---
 # Y
 
-yū - "No"
-
-yūu - "Incorrect"
-
 yēshu - "Age"
 
 yetu - Something that is not human
 - i.e: Animal, Alien
 
+yū - "No"
+
+yūu - "Incorrect"
+
+yushū - "Zero"
+
 ---
 # S
-
-sa - "Me"
 
 sapon - A greeting (formal, use with those you don't know)
 - i.e: sapon! upaf-sesen pāsun nun | Hello! Are you feeling well?
 
 saon - A greeting (informal, use with your friends)
 - i.e: saon! upaf-sesen? | Hi! How are you doing?
+
+sa - "Me"
 
 satu - "Human"
 
