@@ -21,7 +21,8 @@ amērika - "America" (Continent)
 - If you wanna say "an American" - you say
 - "amērika satu"
 
-adā - Anything that cuts (i.e: a knife, a blade, a sword)
+adā - Anything that cuts
+- i.e: a knife, a blade, a sword
 
 ---
 # O
@@ -83,7 +84,7 @@ esipire - "Experienced"
 # P
 
 pan - Particle indicating that the {object} is {subject}
-	i.e: YŪ"PAN"KŌ literally means "(This) Is not a Language"
+- i.e: YŪ"PAN"KŌ literally means "(This) Is not a Language"
 
 pāy - "Yes"
 
@@ -237,7 +238,8 @@ yūu - "Incorrect"
 
 yēshu - "Age"
 
-yetu - Something that is not human (i.e: Animal, Alien)
+yetu - Something that is not human
+- i.e: Animal, Alien
 
 ---
 # S
