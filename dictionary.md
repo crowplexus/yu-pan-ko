@@ -246,7 +246,7 @@ yetu - Something that is not human
 
 sa - "Me"
 
-sapon - An way of greeting someone you don't know
+sapon - A way of greeting someone you don't know
 - i.e: sapon! upaf-sesen pāsun nun | Hello! Are you feeling well?
 
 satu - "Human"
