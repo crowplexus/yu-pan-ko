@@ -214,7 +214,7 @@ māyu - Evil
 # N
 
 na - Particle indicating that the {subject} has done {thing}
-- i.e: māou to hāou na fōy | The cat and the dog left | literal: cat and dog away
+- i.e: māou to hāou na fōy | (The) Cat and (the) dog left
 
 nun - Particle which transform a whole phrase into a question
 - This is useful if you wanna be clear that what you've said is a question.
@@ -237,12 +237,10 @@ nūl - Nothing
 
 rā - Rage
 
+rōn - Sleep / Snore
+
 rūl - Old / of age
 - useful example: a rūl satu is an elderly adult
-
--rarān - Verb "to be enraged"
-
--roron - Verb "to snore"
 
 ---
 # Y
