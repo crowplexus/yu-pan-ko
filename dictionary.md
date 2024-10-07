@@ -3,212 +3,211 @@
 ---
 # A
 
-aē - "Ah, right!"
+aē - Ah, right!
 
-apā - "Appearance"
+apā - Appearance
 
 apān - Anything that cuts
 - i.e: a knife, a blade, a sword
 
 afōn - To lack something
 
-amērika - "America" (Continent)
-- If you wanna say "United States of America" just say
-- "unī opūse amērika"
-- If you wanna say "an American" - you say
-- "amērika satu"
+amērika - America (Continent)
+- If you wanna say "United States of America" - you can say "unī opūse amērika"
+- If you wanna say an American - you say "amērika satu"
 
-anī - "Birthday"
+anī - Birthday
 
 anō - Year
-
 
 ---
 # O
 
-opūse - "Province / State"
+opūse - Province / State
 
-omipē - "Strong"
+omipē - Strong
 
-ōnan - "Name"
+ōnan - Name
 - i.e: sapon! sa ōnan {BLANK} | Hello! my name (is) {BLANK}
 
 ---
 # I
 
-ī - "Eek!"
+ī - Eek!
 
-ipu - "Little"
-- useful example: a "ipu satu" is a child
+ipu - Little
+- useful example: an "ipu satu" is a child
 
-īkuso - "Century"
+īkuso - Century
 
-ifu - "Tree"
+ifu - Tree
 
 ---
 # U
 
-upaf - "You"
+upaf - You
 
-upōn - "Missing"
+upōn - Missing
 
-ukān - "Found"
+ukān - Found
 
-ukāne - "Ukraine"
+ukāne - Ukraine
 
-unī - "United"
+unī - United
 
-ushā - "Russia"
-
+ushā - Russia
 
 ---
 # E
 
-eōpa - "Europe"
+eōpa - Europe
 
-epi - "Picture" 
+epi - Picture / Painting / Drawing
 
-eki - "Painting" / "Drawing"
+ēnpis - English (Language)
 
-ēnpis - "English" (Language)
-
-esipire - "Experienced"
+esipire - Experienced
 
 ---
 # P
 
 pan - Particle indicating that the {object} is {subject}
-- i.e: YŪ"PAN"KŌ literally means "(This) Is not a Language"
+- i.e: YŪ"PAN"KŌ literally means (This) Is not a Language
 
-panū - "One"
+panū - One
 
-pāy - "Yes"
+pāy - Yes
 
-pāay - "Correct."
+pāay - Correct.
 
-pitān - "Britain" (Sovereign State)
+pitān - Britain (Sovereign State)
 
-pañol - "Spanish"
+pañol - Spanish
 
-pasīl - "Brazil" (Country)
+pasīl - Brazil (Country)
 
-pāsun - "Good"
+pāsun - Good
 
-pōkon - "Dry"
+pōkon - Dry
 
-pōtu - "Portuguese" (Language)
+pōtu - Portuguese (Language)
 
-pōf - "Please"
+pōf - Please
 
-pōna - "Toki Pona" (Language)
-- Origin: "Pona" from Toki Pona.
+pōna - Toki Pona (Language)
+- Origin: Pona from Toki Pona.
 
-pūin - "Water" or "Wet"
+pūin - Water / Wet
 
-pūla - "Friend"
+pūla - Friend
 
-pushū - "He / Her / Them"
-
+pushū - He / Her / Them
 
 ---
 # K
 
-kanishō - "Need"
+kanishō - Need
 
-kīpun - "House / Home"
+kīpun - House / Home
 
-kō - "Language"
+kō - Language
 - Origin: 語 (Go) from 日本語/Japanese
 
-kōpu - "Cup"
+kōpu - Cup
 - Origin: Copo from Português/Portuguese
 
-kōshu - "a place with grand importance"
+kōshu - A place with grand importance
 
-kupā - "Mushroom / Male genitalia"
+kupā - Mushroom / Male genitalia
 
 ---
 # T
 
-tān - "Red"
+tān - Red
 
-tenū - "Two"
+tenū - Two
 
-tikū - "Time"
+tikū - Time
 
-to - "And"
+to - And
 
-tūpunu - "Useless"
+tūpunu - Useless
 
 ---
 # F
 
-fā - "Star"
+fā - Star
 
-fāpu - "Big"
-- useful example: a "fāpu satu" is an adult
+fāpu - Big
+- useful example: A "fāpu satu" is an adult
 
-fāpusho - "Giant"
-- useful example: a "fāpusho satu" is an elderly adult
+fāpusho - Giant
 
-fān - "Blue"
+fān - Blue
 
-fāsho - "Big Star / Moon"
+fāsho - Big Star / Moon
 
-fōy - "Left / Gone"
+fafū - Laugh
 
-fuē - "Color"
+fōy - Left / Gone
 
-fupū - "Three"
+fuē - Color
 
-fūkana - "Useful"
+fupū - Three
+
+fūkana - Useful
+
+-fafūn - Verb "to laugh"
 
 ---
 # H
 
-hāou - "Dog"
+hāou - Dog
 
-hayū - "Four"
+hayū - Four
 
-hitā - "Bad"
+hitā - Bad
 
 hifā - Someone who is attracted to someone of the same gender as theirs
 
-hūte - "Fruit"
+hūte - Fruit
 
-hunishū - "Honest"
+hoson - Voice
 
--hufun - Verb meaning "to drink"
+hunīn - Song / Melody
 
+hunishū - Honest
+
+-hufun - Verb "to drink"
 
 ---
 # L
 
-lāpa - "A shade of purple"
+lāpa - A shade of purple
 
-liputēn - "Grave"
+liputēn - Grave
 
-lūf - "Boyfriend"
+lūf - Boyfriend
 
-lūmin - "A shade of yellow"
+lūmin - A shade of yellow
 
--lamun - Verb meaning "to interject"
+-lamun - Verb "to interject"
 
 ---
 # M
 
-māou - "Cat"
+māou - Cat
 
 mapā - Your parent (Mother, and father)
 
 mapañyo - Your grandparent (Grandmother and grandfather)
 
-māyu - "Evil"
+māyu - Evil
 
--mapun - Verb meaning "to look like {object}"
+-mapun - Verb "to look like"
 - i.e: pushū-mapun fā | "They look like (a) star"
 
--mufun - Verb meaning "to eat"
+-mufun - Verb "to eat"
 - i.e: sa-mufun hūte | "I eat (a) fruit"
 
 ---
@@ -218,36 +217,48 @@ na - Particle indicating that the {subject} has done {thing}
 - i.e: māou to hāou na fōy | The cat and the dog left | literal: cat and dog away
 
 nun - Particle which transform a whole phrase into a question
-- This is useful if you wanna be clear that what you've said is a question, it's a good way of avoiding confusion in text if you forgot to add a "?"
+- This is useful if you wanna be clear that what you've said is a question.
 
-napū - "Number"
+napū - Number
 
-nimū - "Five"
+nimū - Five
 
-nōs - "Us"
+nōs - Us
 
-nūl - "Nothing"
+nūl - Nothing
 
--pupun - A verb meaning "to belong to"
+-nasun - Verb comparing an object with another
+- i.e: upaf hoson-nasun hunīn | "Your voice is like a song"
+
+-nupun - Verb to belong to
 
 ---
 # R
 
--roron - A verb meaning "to snore"
+rā - Rage
+
+rūl - Old / of age
+- useful example: a rūl satu is an elderly adult
+
+-rarān - Verb "to be enraged"
+
+-roron - Verb "to snore"
 
 ---
 # Y
 
-yēshu - "Age"
+yāpou - Fox
+
+yēshu - Age
 
 yetu - Something that is not human
 - i.e: Animal, Alien
 
-yū - "No"
+yū - No
 
-yūu - "Incorrect"
+yūu - Incorrect
 
-yushū - "Zero"
+yushū - Zero
 
 ---
 # S
@@ -258,11 +269,11 @@ sapon - A greeting (formal, use with those you don't know)
 saon - A greeting (informal, use with your friends)
 - i.e: saon! upaf-sesen? | Hi! How are you doing?
 
-sa - "Me"
+sa - Me
 
-satu - "Human"
+satu - Human
 
-shun - "Green / Grass"
+shun - Green / Grass
 - i.e: māou-seren shun | (The) cat is green
 
 -sesen - Verb "to do"
