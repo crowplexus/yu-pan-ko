@@ -28,7 +28,7 @@ opūse - Province / State
 omipē - Strong
 
 ōnan - Name
-- i.e: sapon! sa ōnan {BLANK} | Hello! my name (is) {BLANK}
+- i.e: sapon! {BLANK} ōnan sa | Hello! my name (is) {BLANK}
 
 ---
 # I
@@ -205,16 +205,16 @@ mapañyo - Your grandparent (Grandmother and grandfather)
 māyu - Evil
 
 -mapun - Verb "to look like"
-- i.e: pushū-mapun fā | "They look like (a) star"
+- i.e: fā-mapun pushū | "They look like (a) star"
 
 -mufun - Verb "to eat"
-- i.e: sa-mufun hūte | "I eat (a) fruit"
+- i.e: hūte-mufun sa | "I eat (a) fruit"
 
 ---
 # N
 
 na - Particle indicating that the {subject} has done {thing}
-- i.e: māou to hāou na fōy | (The) Cat and (the) dog left
+- i.e: fōy na māou to hāou | "(The) cat and (the) dog left"
 
 nun - Particle which transform a whole phrase into a question
 - This is useful if you wanna be clear that what you've said is a question.
@@ -227,8 +227,8 @@ nōs - Us
 
 nūl - Nothing
 
--nasun - Verb comparing an object with another
-- i.e: upaf hoson-nasun hunīn | "Your voice is like a song"
+-nasun - Verb comparing the object with some other object, or the subject
+- i.e: hunīn-nasun hoson upaf | "Your voice is like a song"
 
 -nupun - Verb to belong to
 
@@ -262,7 +262,7 @@ yushū - Zero
 # S
 
 sapon - A greeting (formal, use with those you don't know)
-- i.e: sapon! upaf-sesen pāsun nun | Hello! Are you feeling well?
+- i.e: sapon! pāsun-sesen  upaf nun | Hello! Are you feeling well?
 
 saon - A greeting (informal, use with your friends)
 - i.e: saon! upaf-sesen? | Hi! How are you doing?
@@ -272,7 +272,7 @@ sa - Me
 satu - Human
 
 shun - Green / Grass
-- i.e: māou-seren shun | (The) cat is green
+- i.e: shun-seren māou | (The) cat is green
 
 -sesen - Verb "to do"
 

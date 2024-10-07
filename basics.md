@@ -9,6 +9,9 @@ A O I U E
 
 P K T F H L M N R Y S
 
+This language also uses a different order for phrases, rather than the usual Subject-Verb-Object (SVO), the subject and the object swap places, Object-Verb-Subject (OVS)
+
+---
 # Grammatically Allowed Syllables
 
 you can combine any consonant with a vowel to form a syllable,
@@ -35,7 +38,21 @@ The language's verbs work like simple contractions in English
 Within this structure, verbs are like suffixes, which attach to words in order to change their meaning without having to change the entire word, whenever you see a word starting in a dash in the dictionary, that means it's a verb.
 
 Example usage for verbs:
-- sa-hufun pūin | I drink water
-- satu-seren hunishū | (The) human is honest
-- sa-seren kanishō omipē | I need to be strong
-- pushū-mapun fā | They look like a star.
+- pūin-hufun sa | I drink water
+	- "pūin" is water
+	- "-hufun" refers to the act of drinking something
+	- sa is "me" or "I"
+- hunishū-seren satu | The human is honest
+	- hunishū is honest
+	- "-seren" is to be
+	- "satu" is human
+- omipē-seren kanishō sa | I need to be strong
+	- "omipē" is strong
+	- "-seren" is to be
+	- "kanishō" directly refers to need
+	- "sa" is "me" or "I"
+- fā-mapun pushū | They look like a star.
+	- "fā" is star
+	- "-mapun" is to look like
+	- "pushū" is "he / her / they"
+		- there is no grammatical gender, everyone is referred to as "pushū"
