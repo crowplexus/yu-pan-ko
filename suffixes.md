@@ -15,7 +15,7 @@ Suffix examples down after this section
 
 - "{same word twice}" - Suffix indicating **desperation**
 	- To use this, simply say a noun twice
-	- for example: "yūyū" is a desperate "No"
+	- for example: "yuyū" is a desperate "No"
 
 - "{duplicate middle/last vowel}" - Suffix indicating **certainty**
 	- To use this, grab a noun, find it's middle/last vowel, and duplicate it
@@ -32,9 +32,9 @@ yūu - "Incorrect"
 
 yuñyo - "No, {Higher Up}."
 
-yūshō - "No" (Regretting Tense)
+yushō - "No" (Regretting Tense)
 
-yūyū - "No" (Desperate Tense)
+yuyū - "No" (Desperate Tense)
 
 ### Irregular Suffix Examples
 
