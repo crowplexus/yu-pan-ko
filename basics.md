@@ -12,9 +12,7 @@ The quote (") defines a pause, think of it like the japanese っ (small "tsu"), 
 
 This language also uses a different order for phrases, rather than the usual Subject-Verb-Object (SVO), the subject and the object swap places, Object-Verb-Subject (OVS)
 ## Vowels and Consonants (IPA)
-If you wanna hear the sounds for yourself, copy one of these characters and go to [this website](https://www.ipachart.com/)...
-
-Vowels hold the sounds of their IPA counterparts (except E, it's pronounced more like the Portuguese "é"...)
+If you wanna hear the sounds for yourself, copy one of these characters and go to [this website](https://www.ipachart.com/).
 ### Open Vowels
 - /a/ -> A
 - /ɒ/ -> O
