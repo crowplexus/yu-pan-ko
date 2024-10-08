@@ -5,6 +5,7 @@ YŪ"PAN"KŌ" uses a simple version of the roman alphabet with fewer letters, tho
 # The Alphabet
 This language has 5 vowels
 - A O I U E
+
 and 11 consonants
 - P K T F H L M N R Y S
 ## Special Characters
