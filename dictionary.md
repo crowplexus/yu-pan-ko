@@ -262,7 +262,7 @@ yushū - Zero
 # S
 
 sapon - A greeting (formal, use with those you don't know)
-- i.e: sapon! pāsun-sesen  upaf nun | Hello! Are you feeling well?
+- i.e: sapon! pāsun-sesen upaf nun | Hello! Are you feeling well?
 
 saon - A greeting (informal, use with your friends)
 - i.e: saon! upaf-sesen? | Hi! How are you doing?

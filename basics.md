@@ -2,14 +2,48 @@
 
 YŪ"PAN"KŌ" uses a simple version of the roman alphabet with fewer letters, those being:
 
-### Vowels
-
-A O I U E
-### Consonants
-
-P K T F H L M N R Y S
+# The Alphabet
+This language has 5 vowels
+- A O I U E
+and 11 consonants
+- P K T F H L M N R Y S
+## Special Characters
+The quote (") defines a pause, think of it like the japanese っ (small "tsu"), or a glottal stop, it's a visual indicator of a pause within a 
 
 This language also uses a different order for phrases, rather than the usual Subject-Verb-Object (SVO), the subject and the object swap places, Object-Verb-Subject (OVS)
+## Vowels and Consonants (IPA)
+If you wanna hear the sounds for yourself, copy one of these characters and go to [this website](https://www.ipachart.com/)...
+
+Vowels hold the sounds of their IPA counterparts (except E, it's pronounced more like the Portuguese "é"...)
+### Open Vowels
+- /a/ -> A
+- /ɒ/ -> O
+### Close Vowels
+- /i/ -> I
+- /u/ -> U
+### Open-mid Vowels
+- /ɛ/ -> E
+
+Consonants? those kinda hold the sound of the IPA counterparts, although some letters are different and it's good to keep that in mind.
+### Plosive Consonants
+- /p/ -> P
+- /k/ -> K
+- /t/ -> T
+- /ʔ/ -> "
+### Nasal Consonants
+- /ɱ/ -> M
+- /ɳ/ -> N
+- /ɲ/ -> ñ
+### Fricative Consonants
+- /f/ -> F
+- /s/ -> S
+- /h/ -> H
+### Flap Consonants
+- /ɾ or ɽ/ -> R
+### Approximant Consonants
+- /j/ -> Y
+### Lateral Approximant Consonants
+- /ɭ/ -> L
 
 ---
 # Grammatically Allowed Syllables
