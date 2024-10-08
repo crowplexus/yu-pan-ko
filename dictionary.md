@@ -200,7 +200,7 @@ māou - Cat
 
 mapā - Your parent (Mother, and father)
 
-mapañyo - Your grandparent (Grandmother and grandfather)
+mapaño - Your grandparent (Grandmother and grandfather)
 
 māyu - Evil
 

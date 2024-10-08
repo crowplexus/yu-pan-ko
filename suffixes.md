@@ -2,10 +2,10 @@
 
 Suffix examples down after this section
 
-- "ñyo" - Suffix indicating  a higher up of yours.
-	- To use this, grab any word, remove the last long vowel within that noun, and add "ñyo" to the end.
+- "ño" - Suffix indicating a higher up of yours.
+	- To use this, grab any word, remove the last long vowel within that noun, and add "ño" to the end.
 	- Keep in mind, if the word ends in a consonant, you must remove that consonant in favour of the suffix
-	- For example: "yū" becomes "yuñyo"
+	- For example: "yū" becomes "yuño"
 	- This would be equal to saying "Sir" or "Miss" - refers to a higher class.
 
 - "shō" - Suffix indicating **regret**
@@ -30,7 +30,7 @@ Irregular forms of these suffixes will be documented if existing.
 
 yūu - "Incorrect"
 
-yuñyo - "No, {Higher Up}."
+yuño - "No, {Higher Up}."
 
 yushō - "No" (Regretting Tense)
 
