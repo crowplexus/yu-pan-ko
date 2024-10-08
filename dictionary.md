@@ -103,6 +103,10 @@ pūla - Friend
 
 pushū - He / Her / Them
 
+puf - Love (concept)
+
+-pupuf - Verb meaning "to love" - if used as a word, becomes the onomatopoeia for a heartbeat
+
 ---
 # K
 
@@ -229,6 +233,8 @@ nūl - Nothing
 
 -nasun - Verb comparing the object with some other object, or the subject
 - i.e: hunīn-nasun hoson upaf | "Your voice is like a song"
+
+-nanun - Verb to like
 
 -nupun - Verb to belong to
 
