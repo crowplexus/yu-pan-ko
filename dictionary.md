@@ -86,7 +86,7 @@ pañol - Spanish
 
 pasīl - Brazil (Country)
 
-pāsun - Good
+pāsun - Good / Sweet
 
 pōkon - Dry
 
@@ -170,9 +170,9 @@ hāou - Dog
 
 hayū - Four
 
-hitā - Bad
+hitā - Bad / Evil
 
-hifā - Someone who is attracted to someone of the same gender as theirs
+homő - Someone who is attracted to someone of the same gender as theirs
 
 hūte - Fruit
 
@@ -191,6 +191,17 @@ lāpa - A shade of purple
 
 liputēn - Grave
 
+lenapu - Day
+- This word can be used to refer to both morning and afternoon.
+- i.e: sapon! lenapu pāsun! | Hello! good morning!
+
+lenishu - Night
+- This word can be used to refer to the evening.
+- i.e: sapon! lenishu pāsun! | Hello! good evening!
+
+lenī - Night (of sleep)
+- lenī pāsun, upaf | Good Night, You
+
 lūf - Boyfriend
 
 lūmin - A shade of yellow
@@ -205,8 +216,6 @@ māou - Cat
 mapā - Your parent (Mother, and father)
 
 mapaño - Your grandparent (Grandmother and grandfather)
-
-māyu - Evil
 
 -mapun - Verb "to look like"
 - i.e: fā-mapun pushū | "They look like (a) star"
