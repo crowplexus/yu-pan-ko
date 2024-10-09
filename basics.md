@@ -9,7 +9,7 @@ This language has 5 vowels
 and 11 consonants
 - P K T F H L M N R Y S
 ## Special Characters
-The quote (") defines a pause, think of it like the japanese っ (small "tsu"), or a glottal stop, it's a visual indicator of a pause within a 
+The quote (") defines a pause, think of it like the japanese っ (small "tsu"), or a glottal stop, it's a visual indicator of a pause
 
 This language also uses a different order for phrases, rather than the usual Subject-Verb-Object (SVO), the subject and the object swap places, Object-Verb-Subject (OVS)
 ## Vowels and Consonants (IPA)
