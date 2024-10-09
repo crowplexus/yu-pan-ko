@@ -127,7 +127,7 @@ kōpu - Cup
 
 kōshu - A place with grand importance
 
-kupā - Mushroom / Male genitalia
+kupā - Mushroom
 
 ---
 # T
@@ -177,7 +177,7 @@ hayū - Four
 
 hitā - Bad / Evil
 
-homő - Someone who is attracted to someone of the same gender as theirs
+homō - Someone who is attracted to someone of the same gender as theirs
 
 hūte - Fruit
 
