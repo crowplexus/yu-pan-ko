@@ -65,6 +65,8 @@ macron (-) is used to indicate a long vowel, i.e: ā
 
 ---
 
+# Verb Examples
+
 The language's verbs work like simple contractions in English
 - i.e: It is -> It's
 

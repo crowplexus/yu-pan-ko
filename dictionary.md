@@ -40,7 +40,9 @@ ipu - Little
 
 īkuso - Century
 
-ifu - Tree
+ifu - Tree / Wood
+
+ifupel - Paper
 
 ---
 # U
@@ -111,6 +113,9 @@ puf - Love (concept)
 # K
 
 kanishō - Need
+
+kanā - All / Everything
+-  tip: kanā upaf is "everyone"
 
 kīpun - House / Home
 
@@ -292,5 +297,8 @@ shun - Green / Grass
 -sesen - Verb "to do"
 
 -seren - Verb "to be"
+
+-sunen - Verb "to write"
+- i.e: ifupel-sunen pushū | They write on a paper
 
 ---
