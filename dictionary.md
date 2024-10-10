@@ -90,40 +90,6 @@ to - And
 
 tūpunu - Useless
 
-### F
-fāpu - Big
-- useful example: A "fāpu satu" is an adult
-
-fāpusho - Giant
-
-fuē - Color
-
-fupū - Three
-
-fūkana - Useful
-
-### H
-hāou - Dog
-
-hayū - Four
-
-hūte - Fruit
-
-hoson - Voice
-
-hunīn - Song / Melody
-
-### L
-liputēn - Grave
-
-lenapu - Day
-- This word can be used to refer to both morning and afternoon.
-- i.e: sapon! lenapu pāsun! | Hello! good morning!
-
-lenishu - Night
-- This word can be used to refer to the evening.
-- i.e: sapon! lenishu pāsun! | Hello! good evening!
-
 ### M
 māou - Cat
 
@@ -137,6 +103,38 @@ napū - Number
 nimū - Five
 
 nūl - Nothing
+
+### F
+fāpu - Big
+- useful example: A "fāpu satu" is an adult
+
+fāpusho - Giant
+
+fuē - Color
+
+fupū - Three
+
+fūkana - Useful
+
+### S
+
+sapon - A greeting
+- i.e: sapon! pāsun-sesen upaf nun | Hello! Are you feeling well?
+
+sa - Me
+
+satu - Human
+
+### H
+hāou - Dog
+
+hayū - Four
+
+hūte - Fruit
+
+hoson - Voice
+
+hunīn - Song / Melody
 
 ### R
 rā - Rage
@@ -157,14 +155,16 @@ yūu - Incorrect
 
 yushū - Zero
 
-### S
+### L
+liputēn - Grave
 
-sapon - A greeting
-- i.e: sapon! pāsun-sesen upaf nun | Hello! Are you feeling well?
+lenapu - Day
+- This word can be used to refer to both morning and afternoon.
+- i.e: sapon! lenapu pāsun! | Hello! good morning!
 
-sa - Me
-
-satu - Human
+lenishu - Night
+- This word can be used to refer to the evening.
+- i.e: sapon! lenishu pāsun! | Hello! good evening!
 
 ---
 ## Colloquial Words
@@ -190,6 +190,17 @@ fāsho - Big Star / Moon
 
 fafū - Laugh
 
+### S
+saon - A greeting (informal, use with your friends)
+- i.e: saon! upaf-sesen? | Hi! How are you doing?
+
+shun - Green / Grass
+- i.e: shun-seren māou | (The) cat is green
+
+### Y
+yetu - Something that is not human
+- i.e: Animal, Alien
+
 ### L
 lāpa - A shade of purple
 
@@ -199,17 +210,6 @@ lenī - Night (of sleep)
 lūf - Boyfriend
 
 lūmin - A shade of yellow
-
-### Y
-yetu - Something that is not human
-- i.e: Animal, Alien
-
-### S
-saon - A greeting (informal, use with your friends)
-- i.e: saon! upaf-sesen? | Hi! How are you doing?
-
-shun - Green / Grass
-- i.e: shun-seren māou | (The) cat is green
 
 ---
 ## Borrowed Words
@@ -250,6 +250,10 @@ kō - Language
 kōpu - Cup
 - Borrowed from Portuguese "Copo"
 
+### N
+nōs - Us
+- Borrowed from Portuguese "nós"
+
 ### F
 fōy - Left / Gone
 - Borrowed from Portuguese "Foi"
@@ -262,10 +266,6 @@ homō - Someone who is attracted to someone of the same gender as theirs
 
 hunishū - Honest
 - Borrowed from English "Honest"
-
-### N
-nōs - Us
-- Borrowed from Portuguese "nós"
 
 ---
 ## Particles
@@ -287,15 +287,6 @@ nun - Particle which transform a whole phrase into a question
 ### P
 -pupuf - Verb meaning "to love" - if used as a word, becomes the onomatopoeia for a heartbeat
 
-### F
--fafūn - Verb "to laugh"
-
-### H
--hufun - Verb "to drink"
-
-### L
--lamun - Verb "to interject"
-
 ### M
 -mapun - Verb "to look like"
 - i.e: fā-mapun pushū | "They look like (a) star"
@@ -311,6 +302,9 @@ nun - Particle which transform a whole phrase into a question
 
 -nupun - Verb to belong to
 
+### F
+-fafūn - Verb "to laugh"
+
 ### S
 -sesen - Verb "to do"
 
@@ -318,3 +312,9 @@ nun - Particle which transform a whole phrase into a question
 
 -sunen - Verb "to write"
 - i.e: ifupel-sunen pushū | They write on a paper
+
+### H
+-hufun - Verb "to drink"
+
+### L
+-lamun - Verb "to interject"
