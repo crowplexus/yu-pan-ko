@@ -50,6 +50,8 @@ ushā - Russia
 ### E
 epi - Picture / Painting / Drawing
 
+el - This
+
 ### P
 panū - One
 

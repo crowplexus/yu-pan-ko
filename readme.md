@@ -6,7 +6,7 @@ I'm still learning all of this conlang stuff so if any conlangers wanna take a l
 
 ---
 ### Links
-- [Basics](./basics.md)
-- [Counting System](./counting.md)
-- [Grammatical Suffixes](./suffixes.md)
-- [Dictionary](./dictionary.md)
+- [Basics](1-basics.md)
+- [Counting System](2-counting.md)
+- [Grammatical Affixes](3-affixes.md)
+- [Dictionary](4-dictionary.md)
