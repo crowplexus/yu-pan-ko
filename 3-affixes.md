@@ -1,7 +1,7 @@
 # Suffixes
 - "se" - Suffix indicating "multiple"
 	- Usage: remove the word's last long vowel (if existing), and add the suffix at the end.
-	- If the word ends in a consonant, you must remove it, place with the suffix, then place the consonant back at the end of the word
+	- If the word ends in a consonant, you must remove it, place the suffix, then place the consonant at the end of the word
 	- i.e: hutese-seren el | Those (are) fruit.
 		- hutē -> hutese
 	- i.e: puf-seren upasef | You all are adorable.
